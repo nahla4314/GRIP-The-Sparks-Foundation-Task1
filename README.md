@@ -5,4 +5,4 @@
   * Scores (Target)
 - The dataset used for this task can be found at: (http://bit.ly/w-data)
 
- **-Task:** What will be predicted score if a student studies for 9.25 hrs/day?
+ > **Task:** What will be predicted score if a student studies for 9.25 hrs/day?
